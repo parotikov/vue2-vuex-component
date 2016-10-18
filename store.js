@@ -3,8 +3,6 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-
-
 const mutations = {
     ADD_POINT (state) {
         state.points++

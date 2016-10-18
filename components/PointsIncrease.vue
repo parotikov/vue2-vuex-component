@@ -19,3 +19,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+button {
+  /*border: 1px solid red;*/
+}
+</style>

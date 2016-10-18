@@ -2,6 +2,7 @@
   <div>
       <h1>{{ points }}</h1>
       <points></points>
+      <p>123</p>
   </div>
 </template>
 
