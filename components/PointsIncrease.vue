@@ -20,8 +20,10 @@ export default {
 }
 </script>
 
-<style scoped>
-button {
-  /*border: 1px solid red;*/
+<style scoped lang="sass">
+div {
+  button {
+    // border: 1px solid red;
+  }
 }
 </style>
