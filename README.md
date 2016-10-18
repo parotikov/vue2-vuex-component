@@ -1,0 +1,1 @@
+#Test repo for vuejs 2 and vuex with components
