@@ -2,6 +2,12 @@
   "name": "vue2-vuex-increment-test",
   "version": "1.0.0",
   "description": "test package with vuex and components",
+  "keywords": [
+    "vuejs",
+    "vuex",
+    "webpack",
+    "es2015"
+  ],
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
