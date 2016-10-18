@@ -1,4 +1,5 @@
-#Test repo for vuejs 2 and vuex with components
+#vuejs 2 and vuex with components
+example of usage reactive framework vue.js (v2) with components and vuex (state manager, like redux), powered by es2015 and webpack.
 
 ##Install
 ```
